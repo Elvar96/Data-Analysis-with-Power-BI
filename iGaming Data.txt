@@ -1,0 +1,6 @@
+Data:
+Date - month/day/year
+Game Name - sample of games released within the last year
+Partner Group - a set of projects/casinos (at least one project per partner group) are grouped in a partner group
+Players, Bets, Wins, Rounds - number/sum per partner group, game name, and date
+GGR - gross gaming revenue
